@@ -1,49 +1,49 @@
 From: <Saved by Blink>
-Snapshot-Content-Location: https://cv.bnei.dev/?snapshot
+Snapshot-Content-Location: http://localhost:4173/?snapshot
 Subject: CV - Mohammad-Amine BANAEI
-Date: Sat, 9 Sep 2023 22:29:21 -0000
+Date: Tue, 12 Sep 2023 12:52:09 -0000
 MIME-Version: 1.0
 Content-Type: multipart/related;
 	type="text/html";
-	boundary="----MultipartBoundary--qUZFVVqBXhCwbobEuifg6BM6nFUnqh3zP3Aoj9aQie----"
+	boundary="----MultipartBoundary--wTBkSEgfOlaPgnF3TEKYVv2QbzcMLCes0jmscCuV25----"
 
 
-------MultipartBoundary--qUZFVVqBXhCwbobEuifg6BM6nFUnqh3zP3Aoj9aQie----
+------MultipartBoundary--wTBkSEgfOlaPgnF3TEKYVv2QbzcMLCes0jmscCuV25----
 Content-Type: text/html
-Content-ID: <frame-B9601A3FC33CDB0F9318318B42DABB93@mhtml.blink>
+Content-ID: <frame-D5E23225FD4DEEFF841B4164EC844E0E@mhtml.blink>
 Content-Transfer-Encoding: quoted-printable
-Content-Location: https://cv.bnei.dev/?snapshot
+Content-Location: http://localhost:4173/?snapshot
 
 <!DOCTYPE html><html lang=3D"en" data-theme=3D"professionnal"><head><meta h=
 ttp-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8">
 	=09
-		<link rel=3D"icon" href=3D"https://cv.bnei.dev/favicon.ico">
+		<link rel=3D"icon" href=3D"http://localhost:4173/favicon.ico">
 		<meta name=3D"viewport" content=3D"width=3Ddevice-width">
 	=09
-		<link href=3D"https://cv.bnei.dev/_app/immutable/assets/0.3eaae183.css"=
+		<link href=3D"http://localhost:4173/_app/immutable/assets/0.3eaae183.css"=
  rel=3D"stylesheet">
-		<link href=3D"https://cv.bnei.dev/_app/immutable/assets/HeadTags.53b77b=
+		<link href=3D"http://localhost:4173/_app/immutable/assets/HeadTags.53b77b=
 e7.css" rel=3D"stylesheet">
-		<link rel=3D"modulepreload" href=3D"https://cv.bnei.dev/_app/immutable/=
-entry/start.b913f0f4.js">
-		<link rel=3D"modulepreload" href=3D"https://cv.bnei.dev/_app/immutable/=
+		<link rel=3D"modulepreload" href=3D"http://localhost:4173/_app/immutable/=
+entry/start.3ef9f58e.js">
+		<link rel=3D"modulepreload" href=3D"http://localhost:4173/_app/immutable/=
 chunks/scheduler.bff07679.js">
-		<link rel=3D"modulepreload" href=3D"https://cv.bnei.dev/_app/immutable/=
-chunks/singletons.ed5c0743.js">
-		<link rel=3D"modulepreload" href=3D"https://cv.bnei.dev/_app/immutable/=
-entry/app.51ce944d.js">
-		<link rel=3D"modulepreload" href=3D"https://cv.bnei.dev/_app/immutable/=
+		<link rel=3D"modulepreload" href=3D"http://localhost:4173/_app/immutable/=
+chunks/singletons.78b7d312.js">
+		<link rel=3D"modulepreload" href=3D"http://localhost:4173/_app/immutable/=
+entry/app.5cf65089.js">
+		<link rel=3D"modulepreload" href=3D"http://localhost:4173/_app/immutable/=
 chunks/index.aaccf6ff.js">
-		<link rel=3D"modulepreload" href=3D"https://cv.bnei.dev/_app/immutable/=
-nodes/0.b633933f.js">
-		<link rel=3D"modulepreload" href=3D"https://cv.bnei.dev/_app/immutable/=
-chunks/index.2a10abf3.js">
-		<link rel=3D"modulepreload" href=3D"https://cv.bnei.dev/_app/immutable/=
-chunks/stores.5dce4d1d.js">
-		<link rel=3D"modulepreload" href=3D"https://cv.bnei.dev/_app/immutable/=
-nodes/2.b946b0ea.js">
-		<link rel=3D"modulepreload" href=3D"https://cv.bnei.dev/_app/immutable/=
-chunks/HeadTags.e93602a2.js"><title>CV - Mohammad-Amine BANAEI</title><meta=
+		<link rel=3D"modulepreload" href=3D"http://localhost:4173/_app/immutable/=
+nodes/0.efd1084b.js">
+		<link rel=3D"modulepreload" href=3D"http://localhost:4173/_app/immutable/=
+chunks/index.1055a899.js">
+		<link rel=3D"modulepreload" href=3D"http://localhost:4173/_app/immutable/=
+chunks/stores.505b6f4e.js">
+		<link rel=3D"modulepreload" href=3D"http://localhost:4173/_app/immutable/=
+nodes/2.2fe0d6f6.js">
+		<link rel=3D"modulepreload" href=3D"http://localhost:4173/_app/immutable/=
+chunks/HeadTags.688d71d6.js"><title>CV - Mohammad-Amine BANAEI</title><meta=
  http-equiv=3D"x-ua-compatible" content=3D"IE=3Dedge,chrome=3D1"><meta name=
 =3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1"><meta nam=
 e=3D"robots" content=3D"index,follow"><meta name=3D"googlebot" content=3D"i=
@@ -72,7 +72,7 @@ itez pas =C3=A0 me contacter pour toute proposition ou pour plus d=E2=80=99=
 informations."><!-- HTML_TAG_START --><!-- HTML_TAG_END --><!-- HTML_TAG_ST=
 ART --><!-- HTML_TAG_END -->
 	<link rel=3D"modulepreload" as=3D"script" crossorigin=3D"" href=3D"http://=
-127.0.0.1:4173/_app/immutable/nodes/1.49d5c511.js"></head>
+localhost:4173/_app/immutable/nodes/1.af818c71.js"></head>
 	<body data-sveltekit-preload-data=3D"hover">
 		<div style=3D"display: contents"><div class=3D"min-h-screen dark:bg-base-=
 300"> <div class=3D"py-0 dark:bg-base-100 shadow-sm rounded-sm navbar py-6"=
@@ -1641,12 +1641,12 @@ tat py-"><div class=3D"stat-value text-lg capitalize">anglais <div class=3D=
 =A9</div></div> </div></div></div></div> <div class=3D"divider my-14"></div=
 > <div class=3D"stats shadow stats-vertical w-full"><div class=3D"stat"><di=
 v class=3D"stat-figure justify-self-center flex flex-col justify-center tex=
-t-secondary"><div class=3D"avatar"><div class=3D"w-8"><img src=3D"http://12=
-7.0.0.1:4173/boxing-glove.svg" alt=3D"boxe"></div></div></div> <div class=
+t-secondary"><div class=3D"avatar"><div class=3D"w-8"><img src=3D"http://lo=
+calhost:4173/boxing-glove.svg" alt=3D"boxe"></div></div></div> <div class=
 =3D"stat-value text-lg capitalize">boxe</div> <div class=3D"stat-desc">angl=
 aise &amp; thai=CC=88landaise</div> </div><div class=3D"stat"><div class=3D=
 "stat-figure justify-self-center flex flex-col justify-center text-secondar=
-y"><div class=3D"avatar"><div class=3D"w-8"><img src=3D"http://127.0.0.1:41=
+y"><div class=3D"avatar"><div class=3D"w-8"><img src=3D"http://localhost:41=
 73/reading.svg" alt=3D"lecture"></div></div></div> <div class=3D"stat-value=
  text-lg capitalize">lecture</div> <div class=3D"stat-desc">Weber, Maupassa=
 nt</div> </div></div> <div class=3D"mt-2"><div class=3D"flex flex-col items=
@@ -1714,8 +1714,8 @@ ill=3D"#c57d2a" d=3D"M49.686 33.09c-2.647-4.939-4.301-8.86-4.301-8.86c-10.3=
 =3D"#3f4042" d=3D"M13.381 53.623s5.371-13.378 5.02-23.21c0 0 3.398 17.658 7=
 .02 24.757l-12.05-1.544"></path></svg></div></div> <div class=3D"flex flex-=
 col items-center gap-2"><div class=3D"stats shadow w-min"><div class=3D"sta=
-t"><img src=3D"https://cv.bnei.dev/strategy.png" class=3D"max-w-none w-[4=
-4px]" alt=3D"chess"></div> <div class=3D"stat"><img src=3D"http://127.0.0.1=
+t"><img src=3D"http://localhost:4173/strategy.png" class=3D"max-w-none w-[4=
+4px]" alt=3D"chess"></div> <div class=3D"stat"><img src=3D"http://localhost=
 :4173/harmony.png" class=3D"max-w-none w-[44px]" alt=3D"man in harmony"></d=
 iv></div></div> <div class=3D"stats shadow w-min"><div class=3D"stat"><svg =
 width=3D"44" height=3D"44" viewBox=3D"0 0 128 128" xmlns=3D"http://www.w3.o=
@@ -2028,10 +2028,10 @@ x, 0px, 0px); clip-path: inset(50%); overflow: hidden; white-space: nowrap;=
 =09
 
 </body></html>
-------MultipartBoundary--qUZFVVqBXhCwbobEuifg6BM6nFUnqh3zP3Aoj9aQie----
+------MultipartBoundary--wTBkSEgfOlaPgnF3TEKYVv2QbzcMLCes0jmscCuV25----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: https://cv.bnei.dev/_app/immutable/assets/0.3eaae183.css
+Content-Location: http://localhost:4173/_app/immutable/assets/0.3eaae183.css
 
 @charset "utf-8";
 
@@ -3778,10 +3778,10 @@ b(38 38 38 / var(--tw-bg-opacity)); }
   .lg\:columns-2 { columns: 2; }
   .lg\:text-left { text-align: left; }
 }
-------MultipartBoundary--qUZFVVqBXhCwbobEuifg6BM6nFUnqh3zP3Aoj9aQie----
+------MultipartBoundary--wTBkSEgfOlaPgnF3TEKYVv2QbzcMLCes0jmscCuV25----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: https://cv.bnei.dev/_app/immutable/assets/HeadTags.53b77be7.css
+Content-Location: http://localhost:4173/_app/immutable/assets/HeadTags.53b77be7.css
 
 @charset "utf-8";
 
@@ -3880,7 +3880,7 @@ rgb(31 41 55 / var(--tw-bg-opacity)); }
   .desktop-grid.svelte-1ks3fm9 { display: grid; grid-template: "skill skill=
 " min-content "education experience" auto / 30% auto; gap: 0px; }
 }
-------MultipartBoundary--qUZFVVqBXhCwbobEuifg6BM6nFUnqh3zP3Aoj9aQie----
+------MultipartBoundary--wTBkSEgfOlaPgnF3TEKYVv2QbzcMLCes0jmscCuV25----
 Content-Type: image/png
 Content-Transfer-Encoding: base64
 Content-Location: https://voconsteroid.com/voconsteroidLogoNT384.png
@@ -4030,10 +4030,10 @@ AABGEQAAYBQBAABGEQAAYBQBAABGEQAAYBQBAABGEQAAYBQBAABGEQAAYBQBAABGEQAAYBQBAABG
 EQAAYBQBAABGEQAAYBQBAABGEQAAYBQBAABGEQAAYBQBAABGEQAAYBQBAABGEQAAYBQBAABGEQAA
 YBQBAABGEQAAYBQBAABGEQAAYBQBAABGEQAAYFEURf8P1Rxy/6Nu9+AAAAAASUVORK5CYII=
 
-------MultipartBoundary--qUZFVVqBXhCwbobEuifg6BM6nFUnqh3zP3Aoj9aQie----
+------MultipartBoundary--wTBkSEgfOlaPgnF3TEKYVv2QbzcMLCes0jmscCuV25----
 Content-Type: image/svg+xml
 Content-Transfer-Encoding: quoted-printable
-Content-Location: https://cv.bnei.dev/boxing-glove.svg
+Content-Location: http://localhost:4173/boxing-glove.svg
 
 <svg width=3D"512" height=3D"512" viewBox=3D"0 0 36 36" xmlns=3D"http://www=
 .w3.org/2000/svg">
@@ -4052,10 +4052,10 @@ Content-Location: https://cv.bnei.dev/boxing-glove.svg
 333c0 .92-1.221 1.208-2.326 1.208h-5C15.57 34 15 33.712 15 32.792v-3.333c0-=
 .921.57-1.459 1.674-1.459h5z"/>
 </svg>
-------MultipartBoundary--qUZFVVqBXhCwbobEuifg6BM6nFUnqh3zP3Aoj9aQie----
+------MultipartBoundary--wTBkSEgfOlaPgnF3TEKYVv2QbzcMLCes0jmscCuV25----
 Content-Type: image/svg+xml
 Content-Transfer-Encoding: quoted-printable
-Content-Location: https://cv.bnei.dev/reading.svg
+Content-Location: http://localhost:4173/reading.svg
 
 <svg width=3D"512" height=3D"512" viewBox=3D"0 0 48 48" xmlns=3D"http://www=
 .w3.org/2000/svg">
@@ -4069,10 +4069,10 @@ Content-Location: https://cv.bnei.dev/reading.svg
 3-3-3z"/>
     </g>
 </svg>
-------MultipartBoundary--qUZFVVqBXhCwbobEuifg6BM6nFUnqh3zP3Aoj9aQie----
+------MultipartBoundary--wTBkSEgfOlaPgnF3TEKYVv2QbzcMLCes0jmscCuV25----
 Content-Type: image/png
 Content-Transfer-Encoding: base64
-Content-Location: https://cv.bnei.dev/strategy.png
+Content-Location: http://localhost:4173/strategy.png
 
 iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAYAAAD0eNT6AAAABHNCSVQICAgIfAhkiAAAAAlwSFlz
 AAAN1wAADdcBQiibeAAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAACAASURB
@@ -4436,10 +4436,10 @@ FqIAAADQQhQAAABaiAIAAEALUQAAAGghCgAAAC1EAQAAoIUoAAAAtBAFAACAFqIAAADQQhQAAABa
 KJL0R+sQAABguFxVVdYZAADAkLEFAABAC1EAAABoIQoAAAAt9F9LL9PzoI2q/QAAAABJRU5ErkJg
 gg==
 
-------MultipartBoundary--qUZFVVqBXhCwbobEuifg6BM6nFUnqh3zP3Aoj9aQie----
+------MultipartBoundary--wTBkSEgfOlaPgnF3TEKYVv2QbzcMLCes0jmscCuV25----
 Content-Type: image/png
 Content-Transfer-Encoding: base64
-Content-Location: https://cv.bnei.dev/harmony.png
+Content-Location: http://localhost:4173/harmony.png
 
 iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAYAAAD0eNT6AAAACXBIWXMAAA7DAAAOwwHHb6hkAAAA
 GXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAIABJREFUeJzs3Xd4VFX6wPHvncnM
@@ -5229,4 +5229,4 @@ owdgNNkCABdQC1QaPRAhhBAJsQHoDzQbPRAjyQoANAHnksT1oIUQIonsB84jySd/kADgK+uAmqN/
 CyGE6JxqgWpgvdEDMQPZAmjLAVwCTAIGArmANIwXQghragV2AquBmag5X0l99O9Y/weMQl/eslRo
 8gAAAABJRU5ErkJggg==
 
-------MultipartBoundary--qUZFVVqBXhCwbobEuifg6BM6nFUnqh3zP3Aoj9aQie------
+------MultipartBoundary--wTBkSEgfOlaPgnF3TEKYVv2QbzcMLCes0jmscCuV25------
