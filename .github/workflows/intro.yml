@@ -46,6 +46,8 @@ jobs:
         - name: Move the snapshot
           run: |
             mv gen/* static/
+            git config --global user.email "charles258@hotmail.fr"
+            git config --global user.name "Charles"
             git add static/
             git commit -m "Update snapshot"
             git push
