@@ -41,14 +41,14 @@ jobs:
           run: curl -I http://localhost:4173
         - name: Create Snapshot
           run: |
-            docker run -i --init --cap-add=SYS_ADMIN --network host -v ./gen:/home/pptruser/gen ghcr.io/puppeteer/puppeteer:latest node -e "$(cat snapshot.js)" http://127.0.0.1:4173 ./gen
+            docker run -i --init --cap-add=SYS_ADMIN --network host -v ./gen:/home/pptruser/gen ghcr.io/puppeteer/puppeteer:latest node -e "$(cat snapshot.js)" http://localhost:4173 ./gen
         - name: Move the snapshot
           run: |
             mv gen/* static/
             git add static/
             git commit -m "Update snapshot"
             git push
-            
+
        
     deploy-to-vercel:
       runs-on: ubuntu-latest
