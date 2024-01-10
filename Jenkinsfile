@@ -22,4 +22,12 @@ pipeline {
             }
         }
     }
+
+    post {
+        success {
+            mail to: 'charles258@hotmail.com',
+                 subject: 'Pipeline Success',
+                 body: 'The pipeline has been succefully deployed.'
+        }
+    }
 }
