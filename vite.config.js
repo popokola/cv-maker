@@ -4,7 +4,6 @@ import { sveltekit } from '@sveltejs/kit/vite';
 const config = {
 	plugins: [sveltekit()],
 	optimizeDeps: { include: ['dayjs/plugin/relativeTime.js'] }
-	
 };
 
 export default config;
