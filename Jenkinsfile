@@ -30,7 +30,6 @@ pipeline {
         }
         success {
             mail to: 'charles258@hotmail.fr',
-                 form: "contact@charlesparames.com"
                  subject: 'Pipeline Failure',
                  body: 'The pipeline has failed.'
         }
