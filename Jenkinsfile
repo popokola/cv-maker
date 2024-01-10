@@ -3,8 +3,9 @@ pipeline {
     triggers {
         cron '* * * * */1'
     }
-
-
+    options {
+        retry(2)
+    }
     stages {
         stage('Build') {
             steps {
@@ -24,8 +25,14 @@ pipeline {
     }
 
     post {
+        failure {
+            echo 'I failed!'
+        }
         success {
-            echo 'I succeeded!'
+            mail to: 'charles258@hotmail.fr',
+                 form: "contact@charlesparames.com"
+                 subject: 'Pipeline Failure',
+                 body: 'The pipeline has failed.'
         }
     }
 }
